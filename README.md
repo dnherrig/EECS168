@@ -1,0 +1,3 @@
+# EECS168
+Lab and Homework for EECS 168
+THIS IS FOR REFRENCE ONLY!
